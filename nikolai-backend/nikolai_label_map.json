@@ -1,0 +1,66 @@
+{
+  "advice": {
+    "functional": false,
+    "description": "Pide consejo o recomendación"
+  },
+  "alarm_cancel": {
+    "functional": true,
+    "description": "Cancelar una alarma existente"
+  },
+  "alarm_query": {
+    "functional": true,
+    "description": "Consultar alarmas activas o tiempo restante"
+  },
+  "alarm_set": {
+    "functional": true,
+    "description": "Programar una nueva alarma"
+  },
+  "emotional": {
+    "functional": false,
+    "description": "Comparte un estado emocional"
+  },
+  "humor": {
+    "functional": false,
+    "description": "Conversación trivial o saludo"
+  },
+  "knowledge": {
+    "functional": false,
+    "description": "Pregunta de conocimiento general"
+  },
+  "meta": {
+    "functional": false,
+    "description": "Pregunta sobre Nikolai mismo"
+  },
+  "opinion": {
+    "functional": false,
+    "description": "Pregunta la opinión de Nikolai"
+  },
+  "reminder_cancel": {
+    "functional": true,
+    "description": "Eliminar un recordatorio"
+  },
+  "reminder_set": {
+    "functional": true,
+    "description": "Crear un recordatorio"
+  },
+  "system": {
+    "functional": true,
+    "description": "Acción del sistema (silenciar, ajustes)"
+  },
+  "task_add": {
+    "functional": true,
+    "description": "Agregar tarea a la lista de pendientes"
+  },
+  "task_done": {
+    "functional": true,
+    "description": "Marcar tarea como completada"
+  },
+  "task_query": {
+    "functional": true,
+    "description": "Consultar tareas o pendientes"
+  },
+  "tech": {
+    "functional": false,
+    "description": "Pregunta técnica de programación o tecnología"
+  }
+}
